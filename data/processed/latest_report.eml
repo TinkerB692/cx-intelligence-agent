@@ -1,0 +1,28 @@
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [MONTHLY REPORT] Customer Support Summary: 2021-12
+From: ai-monitor@company.com
+To: admin@company.com
+
+Hello Team,
+
+Here is the Month-over-Month (MoM) support summary comparing 2021-12 to 2021-11.
+
+[OVERALL METRICS]
+- Ticket Volume: 346 (Down 4.9% vs last month)
+- Average CSAT: 3.15 (Rose by 0.19 points)
+- Avg Resolution Time: 0.0 days (Up 0.0 days)
+
+[WHY DID CSAT RISE?]
+- 'Autodesk AutoCAD': High CSAT of 5.00 (Drove ~25.5% of the total increase)
+- 'LG Smart TV': High CSAT of 5.00 (Drove ~22.6% of the total increase)
+- 'Amazon Echo': High CSAT of 4.20 (Drove ~20.9% of the total increase)
+
+[WEEKLY ANOMALIES]
+- Week 2021-12-20/2021-12-26 | Volume: 98 | Flags: Z-Score 1.51
+- Week 2021-12-27/2022-01-02 | Volume: 41 | Flags: Z-Score -3.46, Isolation Forest Flag
+
+==================================================
+Regards,
+AI Support Monitor
